@@ -59,7 +59,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-tashfeen-778a55350?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 💻 GitHub: https://github.com/Tashfeen-kk
 
 ---
