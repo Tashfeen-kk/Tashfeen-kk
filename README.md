@@ -21,20 +21,36 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills & Tools
 
-- Wazuh SIEM
-- Splunk (Learning)
-- Microsoft Defender
-- Windows Security
-- Linux
-- Networking
-- PowerShell
-- Nmap
-- MITRE ATT&CK
-- File Integrity Monitoring (FIM)
-- Log Analysis
-- Incident Investigation
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux" height="50"/>
+<img src="https://skillicons.dev/icons?i=ubuntu" height="50"/>
+<img src="https://skillicons.dev/icons?i=windows" height="50"/>
+<img src="https://skillicons.dev/icons?i=powershell" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=py" height="50"/>
+<img src="https://skillicons.dev/icons?i=bash" height="50"/>
+
+</p>
+
+### 🔐 Cybersecurity Skills
+
+- 🛡️ Wazuh SIEM
+- 📊 Splunk (Learning)
+- ☁️ Microsoft Sentinel (Learning)
+- 🦠 Microsoft Defender
+- 📁 File Integrity Monitoring (FIM)
+- 📑 Log Analysis
+- 🎯 Threat Hunting
+- 🚨 Incident Response
+- 🌐 Nmap
+- 🖥️ Windows Security
+- 🐧 Linux Administration
+- 📚 MITRE ATT&CK Framework
+- 🌍 Networking
 
 ---
 
@@ -52,6 +68,7 @@
 
 ## 📜 Certifications
 
+- Introduction to Cybersecurity (Cisco Networking Academy)
 - Microsoft Learn (In Progress)
 - Fortinet Training Institute (In Progress)
 
