@@ -36,6 +36,8 @@
 
 </p>
 
+ ---
+
 ### 🔐 Cybersecurity Skills
 
 - 🛡️ Wazuh SIEM
