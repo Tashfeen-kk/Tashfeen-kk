@@ -71,6 +71,7 @@
 ## 📜 Certifications
 
 - Introduction to Cybersecurity (Cisco Networking Academy)
+- Networking Basics (Cisco Networking Academy)
 - Microsoft Learn (In Progress)
 - Fortinet Training Institute (In Progress)
 
