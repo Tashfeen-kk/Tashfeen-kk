@@ -1,87 +1,134 @@
-<h1 align="center">Hi 👋, I'm Muhammad Tashfeen</h1>
-<h3 align="center">Cyber Security Student | Aspiring SOC Analyst | Blue Team Enthusiast</h3>
+# Hi 👋, I'm Muhammad Tashfeen
+
+### 🛡️ Cybersecurity Student | Aspiring Cybersecurity Analyst | Blue Team Enthusiast
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Cyber Security Student at Sindh Madressatul Islam University (SMIU)
+🎓 Cybersecurity student at **Sindh Madressatul Islam University (SMIU)**.
 
-🛡️ Passionate about Security Operations Center (SOC), Threat Hunting, Incident Response, and Blue Team Operations.
+🛡️ Passionate about **Cybersecurity, Security Operations, Threat Detection, Incident Response, Threat Hunting, and Blue Team Operations**.
 
-🔭 Currently building hands-on SOC projects using Wazuh SIEM.
+🔭 Currently building hands-on cybersecurity projects focused on **SIEM, security monitoring, log analysis, endpoint security, and threat detection**.
 
-🌱 Currently learning:
+🌱 Currently learning and improving my skills in:
+
 - Wazuh SIEM
 - Splunk
 - Microsoft Sentinel
-- Linux
+- Microsoft Defender
+- Linux & Windows Security
 - Threat Hunting
 - Incident Response
+- Log Analysis
+- MITRE ATT&CK
+- Network Security
+
+🎯 **Career Goal:** To become a skilled **Cybersecurity Analyst** capable of detecting, investigating, and responding to security threats.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-<p align="left">
+### 💻 Operating Systems
 
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-<img src="https://skillicons.dev/icons?i=ubuntu" height="50"/>
-<img src="https://skillicons.dev/icons?i=windows" height="50"/>
-<img src="https://skillicons.dev/icons?i=powershell" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=py" height="50"/>
-<img src="https://skillicons.dev/icons?i=bash" height="50"/>
+- 🐧 Linux
+- 🪟 Windows
+- 🐧 Ubuntu
 
-</p>
+### 🔐 Cybersecurity
 
- ---
-
-### 🔐 Cybersecurity Skills
-
-- 🛡️ Wazuh SIEM
-- 📊 Splunk (Learning)
-- ☁️ Microsoft Sentinel (Learning)
-- 🦠 Microsoft Defender
-- 📁 File Integrity Monitoring (FIM)
+- 🛡️ Security Monitoring
+- 📊 SIEM
 - 📑 Log Analysis
 - 🎯 Threat Hunting
 - 🚨 Incident Response
-- 🌐 Nmap
-- 🖥️ Windows Security
-- 🐧 Linux Administration
+- 🦠 Malware Detection
+- 📁 File Integrity Monitoring (FIM)
+- 🔎 Threat Detection
+- 🌐 Network Security
 - 📚 MITRE ATT&CK Framework
-- 🌍 Networking
+
+### 🧰 Security Tools
+
+- Wazuh
+- Splunk
+- Microsoft Sentinel
+- Microsoft Defender
+- Nmap
+- PowerShell
+
+### 💻 Technical Tools
+
+- Git
+- GitHub
+- Python
+- Bash
 
 ---
 
-## 📂 Featured Projects
+## 🔐 Cybersecurity Skills
 
-- 🛡️ File Integrity Monitoring (FIM)
-- 🔐 Windows Logon Failure Detection
-- 🦠 Malware Detection using Microsoft Defender & Wazuh
-- ⚡ PowerShell Execution Detection
-- 🌐 Nmap Network Scan Detection
-
-➡️ View all projects in my **SOC-Analyst-Projects** repository.
-
----
-
-## 📜 Certifications
-
-- Introduction to Cybersecurity (Cisco Networking Academy)
-- Networking Basics (Cisco Networking Academy)
-- Microsoft Learn (In Progress)
-- Fortinet Training Institute (In Progress)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-tashfeen-778a55350?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 💻 GitHub: https://github.com/Tashfeen-kk
+- 🛡️ **Wazuh SIEM**
+- 📊 **Splunk**
+- ☁️ **Microsoft Sentinel**
+- 🦠 **Microsoft Defender**
+- 📁 **File Integrity Monitoring (FIM)**
+- 📑 **Security Log Analysis**
+- 🎯 **Threat Hunting**
+- 🚨 **Incident Response**
+- 🔎 **Threat Detection**
+- 🌐 **Nmap & Network Security**
+- 🖥️ **Windows Security**
+- 🐧 **Linux Administration**
+- ⚡ **PowerShell Security Monitoring**
+- 📚 **MITRE ATT&CK**
+- 🌍 **Networking Fundamentals**
 
 ---
 
-⭐ *Learning, building, and sharing my journey toward becoming a SOC Analyst.*
+## 📂 Featured Cybersecurity Projects
+
+### 🛡️ File Integrity Monitoring (FIM)
+
+Implemented File Integrity Monitoring using **Wazuh** to detect unauthorized changes to important files and directories.
+
+### 🔐 Windows Logon Failure Detection
+
+Analyzed Windows security events to detect and investigate repeated failed login attempts and potential brute-force activity.
+
+### 🦠 Malware Detection
+
+Built a malware detection and monitoring lab using **Microsoft Defender and Wazuh** to understand endpoint detection and security alerts.
+
+### ⚡ PowerShell Execution Detection
+
+Created a detection scenario for suspicious PowerShell activity and analyzed security logs to identify potentially malicious execution.
+
+### 🌐 Nmap Network Scan Detection
+
+Performed controlled network scanning with **Nmap** and analyzed generated activity from a defensive security perspective.
+
+➡️ Check out my **SOC-Analyst-Projects** repository for hands-on cybersecurity labs and projects.
+
+---
+
+## 📊 Cybersecurity Learning Journey
+
+```text
+Networking
+     ↓
+Linux & Windows
+     ↓
+Cybersecurity Fundamentals
+     ↓
+SIEM & Log Analysis
+     ↓
+Threat Detection
+     ↓
+Threat Hunting
+     ↓
+Incident Response
+     ↓
+Cybersecurity Analyst 🎯
