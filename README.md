@@ -1,280 +1,255 @@
-<!-- ========================= --><!--        HERO SECTION       --><!-- ========================= --><div align="center">🛡️ Muhammad Tashfeen
+<div align="center">🛡️ Muhammad Tashfeen
 
-"Cybersecurity Analyst • Security Monitoring • Threat Detection • Blue Team"
+Aspiring Cybersecurity Analyst | Security Monitoring | SIEM | Threat Detection
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Cybersecurity+Student+%7C+Aspiring+Cybersecurity+Analyst;Security+Monitoring+%7C+Threat+Detection;SIEM+%7C+Wazuh+%7C+Splunk+%7C+Linux;Learning+%E2%80%A2+Building+%E2%80%A2+Detecting+%E2%80%A2+Investigating" alt="Typing SVG" /><br><a href="https://github.com/Tashfeen-kk">
-<img src="https://img.shields.io/badge/GitHub-Tashfeen--kk-181717?style=for-the-badge&logo=github&logoColor=white">
-</a><a href="https://www.linkedin.com/in/muhammad-tashfeen-778a55350/">
-<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Tashfeen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a><br><br>
+<p>
+  <a href="https://github.com/Tashfeen-kk">
+    <img src="https://img.shields.io/badge/GitHub-Tashfeen--kk-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-tashfeen-778a55350/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>BS Cybersecurity Student | Building hands-on defensive security skills
 
-<img src="https://komarev.com/ghpvc/?username=Tashfeen-kk&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" alt="Profile Views"/></div>---
+</div>---
 
-<!-- ========================= --><!--       ABOUT SECTION       --><!-- ========================= -->🧠 "whoami"
+👋 About Me
 
-Name        : Muhammad Tashfeen
-Education   : BS Cybersecurity Student
-University  : Sindh Madressatul Islam University (SMIU)
-Focus       : Cybersecurity Analysis & Defensive Security
-Goal        : Junior Cybersecurity Analyst
-Approach    : Learn → Build → Detect → Investigate → Improve
+I am a BS Cybersecurity student at Sindh Madressatul Islam University (SMIU) focused on developing practical skills for a career as a Cybersecurity Analyst.
 
-I'm a Cybersecurity student building practical skills toward a career as a Cybersecurity Analyst.
+My current focus is on:
 
-My current focus is on understanding how security teams monitor environments, analyze logs, detect suspicious activity, investigate security events, and respond to incidents.
+- 🔎 Security monitoring and alert analysis
+- 📊 SIEM and log analysis
+- 🚨 Threat detection and investigation
+- 🖥️ Windows and Linux security
+- 🌐 Network security
+- 🎯 MITRE ATT&CK
+- 🚑 Incident response fundamentals
+- 🐍 Security automation with Python
 
-«🛡️ I don't just study cybersecurity — I build labs to understand it.»
+I build security labs and projects to turn cybersecurity concepts into practical, demonstrable experience.
+
+🎯 Current Career Target
+
+Cybersecurity Intern → Junior Cybersecurity Analyst → Cybersecurity Analyst
 
 ---
 
-🔐 Cybersecurity Arsenal
+🧰 Technical Skills
 
-🛡️ Security Operations
+Category| Skills / Tools
+SIEM| Wazuh, Splunk (learning), Microsoft Sentinel (learning)
+Security Monitoring| Alert analysis, log analysis, event correlation
+Threat Detection| Brute-force detection, suspicious PowerShell activity, network scan detection
+Threat Hunting| Security events, indicators, MITRE ATT&CK mapping
+Incident Response| Investigation workflow, evidence collection, incident documentation
+Endpoint Security| Windows Security, Microsoft Defender, Linux
+File Security| File Integrity Monitoring (FIM)
+Networking| TCP/IP fundamentals, network monitoring, Nmap
+Operating Systems| Windows, Linux, Ubuntu, Kali Linux
+Automation| Python, Bash, PowerShell
+Version Control| Git, GitHub
 
-<p align="left"><img src="https://img.shields.io/badge/SIEM-0D1117?style=for-the-badge&logo=security&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Wazuh-3C873A?style=for-the-badge&logo=wazuh&logoColor=white"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></p>🎯 Detection & Investigation
+---
 
-<p align="left"><img src="https://img.shields.io/badge/Threat%20Detection-0D1117?style=for-the-badge&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Threat%20Hunting-0D1117?style=for-the-badge&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Log%20Analysis-0D1117?style=for-the-badge&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Incident%20Response-0D1117?style=for-the-badge&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge&logoColor=white"/></p>💻 Systems & Networking
+🛡️ Security Tools
 
-<p align="left"><img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali,bash,powershell"/>
-<br><br>
-<img src="https://img.shields.io/badge/Network%20Security-1572B6?style=for-the-badge&logo=cisco&logoColor=white"/>
+<p align="left"><img src="https://img.shields.io/badge/Wazuh-SIEM-3C873A?style=for-the-badge&logo=wazuh&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-Learning-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-Learning-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Defender-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows%20Security-0078D4?style=for-the-badge&logo=windows&logoColor=white"/></p>🐍 Automation & Development
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge&logoColor=white"/></p>---
 
-<p align="left"><img src="https://skillicons.dev/icons?i=python,bash,powershell,git,github"/></p>---
+🔬 Featured Cybersecurity Projects
 
-🧪 Security Lab
+🛡️ Brute Force Attack Detection — Wazuh
 
-"My Approach"
+Objective: Detect and investigate repeated failed authentication attempts.
 
-┌─────────────────────────────────────────────────────────┐
-│                  CYBERSECURITY LAB                      │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  ATTACK / ACTIVITY                                      │
-│        ↓                                                │
-│  WINDOWS / LINUX / NETWORK                              │
-│        ↓                                                │
-│  LOG COLLECTION                                         │
-│        ↓                                                │
-│  SIEM (WAZUH / SPLUNK)                                  │
-│        ↓                                                │
-│  ALERT GENERATION                                       │
-│        ↓                                                │
-│  INVESTIGATION                                          │
-│        ↓                                                │
-│  MITRE ATT&CK MAPPING                                   │
-│        ↓                                                │
-│  INCIDENT RESPONSE                                      │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+Skills demonstrated:
 
-I use controlled lab environments to practice defensive security and understand the complete detection-and-investigation lifecycle.
-
----
-
-🚨 Featured Security Projects
-
-<table>
-<tr><td width="50%">🛡️ Brute Force Detection
-
-Wazuh SIEM
-
-- Authentication monitoring
-- Failed login detection
+- Wazuh SIEM
+- Windows authentication logs
 - Alert investigation
 - Security event analysis
 - MITRE ATT&CK mapping
 
-</td><td width="50%">📁 File Integrity Monitoring
-
-Wazuh FIM
-
-- File change monitoring
-- Windows directories
-- Real-time detection
-- Integrity alerts
-- Event investigation
-
-</td></tr><tr><td width="50%">⚡ PowerShell Detection
-
-Windows + Wazuh
-
-- PowerShell activity
-- Suspicious execution
-- Windows event analysis
-- Detection rules
-- Alert investigation
-
-</td><td width="50%">🌐 Network Scan Detection
-
-Nmap + SIEM
-
-- Network reconnaissance
-- Scan activity
-- Log collection
-- Detection analysis
-- Security investigation
-
-</td></tr><tr><td width="50%">🦠 Malware Detection
-
-Microsoft Defender + Wazuh
-
-- Endpoint monitoring
-- Malware alerts
-- Security events
-- Detection analysis
-- Incident investigation
-
-</td><td width="50%">🔐 Windows Logon Detection
-
-Windows Security Logs
-
-- Failed authentication
-- Successful logons
-- Event analysis
-- Suspicious login detection
-- Investigation workflow
-
-</td></tr>
-</table>«🔎 More cybersecurity labs and documentation are available across my repositories.»
+Outcome: Built a controlled lab scenario to generate authentication failures and investigate the resulting SIEM alerts.
 
 ---
 
-🎯 Cybersecurity Analyst Skill Matrix
+📁 File Integrity Monitoring — Wazuh
 
-Area| Focus
-🛡️ Security Monitoring| SIEM, Alerts, Events
-📊 Log Analysis| Windows, Linux, Network Logs
-🚨 Threat Detection| Suspicious Activity & Indicators
-🔎 Threat Hunting| Hypothesis-Based Investigation
-🚑 Incident Response| Detection → Investigation → Response
-🖥️ Endpoint Security| Windows, Linux, Defender
-🌐 Network Security| TCP/IP, Nmap, Network Events
-🎯 MITRE ATT&CK| Technique Mapping
-📁 File Security| FIM & Integrity Monitoring
-🐍 Automation| Python, Bash, PowerShell
+Objective: Detect unauthorized or unexpected file modifications.
+
+Skills demonstrated:
+
+- Wazuh FIM
+- Windows endpoint monitoring
+- File change detection
+- Alert analysis
+- Security event investigation
+
+---
+
+⚡ PowerShell Execution Detection
+
+Objective: Monitor PowerShell activity and identify potentially suspicious execution patterns.
+
+Skills demonstrated:
+
+- Windows Event Logs
+- PowerShell monitoring
+- Wazuh
+- Security event analysis
+- Detection investigation
+
+---
+
+🌐 Network Scan Detection
+
+Objective: Identify network reconnaissance activity in a controlled lab environment.
+
+Skills demonstrated:
+
+- Nmap
+- Network security
+- Log analysis
+- SIEM monitoring
+- Detection investigation
+
+---
+
+🦠 Malware Detection Lab
+
+Objective: Understand endpoint malware detection and security alert investigation.
+
+Tools:
+
+- Microsoft Defender
+- Wazuh
+- Windows Security Events
+
+Skills demonstrated:
+
+- Endpoint monitoring
+- Alert analysis
+- Security event investigation
+
+---
+
+📊 What I Can Analyze
+
+Security Alert
+      │
+      ▼
+Understand the Event
+      │
+      ▼
+Analyze Logs & Context
+      │
+      ▼
+Identify Suspicious Activity
+      │
+      ▼
+Map to MITRE ATT&CK
+      │
+      ▼
+Determine Severity
+      │
+      ▼
+Document Findings
+      │
+      ▼
+Recommend Response
+
+My goal is to develop the ability to move from raw security events → meaningful findings → documented investigation.
+
+---
+
+🎓 Education
+
+Sindh Madressatul Islam University — SMIU
+
+BS Cybersecurity
+
+Currently pursuing my undergraduate degree with a focus on developing practical cybersecurity and defensive security skills.
+
+---
+
+📜 Certifications & Training
+
+Certification / Training| Status
+Introduction to Cybersecurity — Cisco Networking Academy| ✅ Completed
+Networking Basics — Cisco Networking Academy| ✅ Completed
+Microsoft Learn| 🔄 In Progress
+Fortinet Training Institute| 🔄 In Progress
 
 ---
 
 📚 Currently Learning
 
-                    CYBERSECURITY ANALYST
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-        SIEM            DETECTION       INVESTIGATION
-          │                │                │
-     ┌────┴────┐      ┌────┴────┐      ┌────┴────┐
-   Wazuh    Splunk   Threat    MITRE   Logs    Alerts
-                      Hunting   ATT&CK
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                    INCIDENT RESPONSE
-                           │
-                    SECURITY ANALYSIS
+Cybersecurity Analyst
 
-🔄 Current Focus
-
-- 🔥 Wazuh SIEM
+- 🔎 Advanced log analysis
 - 📊 Splunk
+- 🛡️ Wazuh
 - ☁️ Microsoft Sentinel
-- 🪟 Windows Security
-- 🐧 Linux Security
-- 🌐 Network Security
-- 🔎 Threat Hunting
-- 🚨 Incident Response
-- 🐍 Python Automation
+- 🎯 MITRE ATT&CK
+- 🚨 Threat detection
+- 🔍 Threat hunting
+- 🚑 Incident response
+- 🪟 Windows security
+- 🐧 Linux security
+
+Security Automation
+
+- 🐍 Python
 - ⚡ PowerShell
+- 🖥️ Bash
 
 ---
 
-🗺️ Career Roadmap
+🎯 Career Objectives
 
-BS CYBERSECURITY
-       │
-       ▼
-CYBERSECURITY FUNDAMENTALS
-       │
-       ▼
-NETWORKING + LINUX + WINDOWS
-       │
-       ▼
-SIEM + LOG ANALYSIS
-       │
-       ▼
-THREAT DETECTION
-       │
-       ▼
-THREAT HUNTING
-       │
-       ▼
-INCIDENT RESPONSE
-       │
-       ▼
-🎯 JUNIOR CYBERSECURITY ANALYST
-       │
-       ▼
-🛡️ CYBERSECURITY ANALYST
-       │
-       ▼
-🚀 SENIOR CYBERSECURITY ANALYST
+SHORT TERM
+    ↓
+Cybersecurity Internship
+    ↓
+Build Real-World Security Experience
+    ↓
+Junior Cybersecurity Analyst
+    ↓
+Cybersecurity Analyst
+    ↓
+Advanced Security Operations & Detection
+
+Currently looking for:
+
+Cybersecurity Internship / Entry-Level Cybersecurity Opportunities
+
+Areas of interest:
+
+"Cybersecurity Analysis" • "Security Operations" • "SIEM" • "Threat Detection" • "Blue Team" • "Incident Response"
 
 ---
 
-🏆 Certifications & Training
+📈 GitHub Activity
 
-Certification / Training| Status
-🎓 Introduction to Cybersecurity — Cisco Networking Academy| ✅ Completed
-🌐 Networking Basics — Cisco Networking Academy| ✅ Completed
-📚 Microsoft Learn| 🔄 In Progress
-🛡️ Fortinet Training Institute| 🔄 In Progress
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Tashfeen-kk&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tashfeen-kk&layout=compact&theme=tokyonight&hide_border=true"/></div>---
 
----
+📫 Contact
 
-📊 GitHub Analytics
+<div align="center"><a href="https://www.linkedin.com/in/muhammad-tashfeen-778a55350/">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Tashfeen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/Tashfeen-kk">
+<img src="https://img.shields.io/badge/GitHub-Tashfeen--kk-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div>---
 
-<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Tashfeen-kk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tashfeen-kk&layout=compact&theme=tokyonight&hide_border=true"/></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=Tashfeen-kk&theme=tokyonight&hide_border=true" /></div>---
+<div align="center">🛡️ Learn. Build. Detect. Investigate.
 
-🎯 2026 Goals
-
-[████████████████████░░] Cybersecurity Fundamentals
-[███████████████░░░░░░░] Wazuh
-[███████████░░░░░░░░░░░] Splunk
-[████████░░░░░░░░░░░░░] Threat Hunting
-[███████░░░░░░░░░░░░░░] Incident Response
-[██████░░░░░░░░░░░░░░░] Python Automation
-[████░░░░░░░░░░░░░░░░░] Microsoft Sentinel
-[███░░░░░░░░░░░░░░░░░░] Cybersecurity Internship
-
----
-
-💡 Security Mindset
-
-<div align="center">"LEARN → BUILD → DETECT → INVESTIGATE → IMPROVE"
-
-<br>"Every alert tells a story. My job is to understand it."
-
-</div>---
-
-🤝 Let's Connect
-
-<div align="center"><a href="https://github.com/Tashfeen-kk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/muhammad-tashfeen-778a55350/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><br><br>
-
-🛡️ Building practical cybersecurity skills, one investigation at a time.
-
-⭐ Thanks for visiting my profile!
+Open to Cybersecurity Internship & Entry-Level Opportunities
 
 </div>
